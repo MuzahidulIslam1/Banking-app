@@ -38,7 +38,7 @@ This project is ideal for understanding the structure of a simple banking applic
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/BankingApp.git
+   git clone https://github.com/MuzahidulIslam1/BankingApp.git
    cd BankingApp
 Install Dependencies:
 
