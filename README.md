@@ -70,6 +70,7 @@ To end your session securely, click "Logout".
 
 ## 6. Screenshots
 Login Screen
-! [Login Screen](https://github.com/MuzahidulIslam1/Banking-app/blob/main/images/Screenshot%202024-11-14%20122611.png))
+! (https://github.com/MuzahidulIslam1/Banking-app/blob/main/images/Screenshot%202024-11-14%20122611.png)
+
 Banking Actions Screen
-Banking Actions Screen
+! (https://github.com/MuzahidulIslam1/Banking-app/blob/main/images/Screenshot%202024-11-14%20122726.png)
